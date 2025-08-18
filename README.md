@@ -30,8 +30,7 @@ style ="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraaf&layout=compact&theme=midnight-purple&locale=pt-br"
 />
 </p>
-
-<br><br>
+<br>
 <hr>
 
 <div align="left">
