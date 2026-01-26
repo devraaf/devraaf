@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Rafaela Campos
 **`Dev em construção`**
 
-Eu sou a Rafa, apaixonada por tecnologia e atualmente em formação em Desenvolvimento de Sistemas. Uso este espaço para registrar minha jornada, meus aprendizados e meus projetos. <br>Cada repositório representa um pedacinho da minha evolução no mundo da programação.🚀
+Eu sou a Rafa, apaixonada por tecnologia e atualmente cursando Desenvolvimento de Software Multiplataforma. Uso este espaço para registrar minha jornada, meus aprendizados e meus projetos. <br>Cada repositório representa um pedacinho da minha evolução no mundo da programação.🚀
 <hr>
 
 <div align="center">
