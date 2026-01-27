@@ -13,6 +13,15 @@ Eu sou a Rafa, apaixonada por tecnologia e atualmente cursando Desenvolvimento d
  </h3>
 </div>
 
+<hr>
+
+### 🏅Certificações e Programas
+<a href="https://cursos.alura.com.br/degree/certificate/e84c83b5-a456-4cf0-af67-47fd89b7849c?lang" target="_blank">
+<img src="img/badge one.png" alt="Oracle Next Education Badge" width="130"/>
+</a>
+<a href="https://www.credly.com/badges/892b78f4-d0f6-4502-8e5c-f2c9658ac883/public_url" target="_blank">
+<img src="img/networking-basics.png" alt="Oracle Next Education Badge" width="110"/>
+</a>
 
 <hr>
 
@@ -37,6 +46,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraaf&layo
  
 ### 📱 Contatos
 <a href = "mailto:campos.raaf333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaela-pereira-campos-4b5641205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/rafaela-pereira-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
