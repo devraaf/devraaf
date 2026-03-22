@@ -58,8 +58,8 @@ Minha jornada é construída através de **bolsas de estudo, bootcamps e certifi
 
 <div align="center">
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelacampos&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8760f1&icon_color=8760f1&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelacampos&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8760f1&text_color=c9d1d9" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devraaf&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8760f1&icon_color=8760f1&text_color=c9d1d9" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraaf&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8760f1&text_color=c9d1d9" />
   
 </div>
 
